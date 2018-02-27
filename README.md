@@ -1,3 +1,16 @@
+# TIC-TAC-TOE
+
+
+Steps to install
+1.Clone the repo
+
+2.Gitbash into repo and run command npm install
+
+3.Run command npm start
+
+4.Enjoy
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
